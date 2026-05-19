@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Alejandro Miller 👋
 
-<!--
-**AIMHigheR36/AIMHigheR36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a finance professional building systems that outlast me — and growing into a Financial Data Architect.
 
-Here are some ideas to get you started:
+- 🌐 [My website – AIMHigheR](https://aimhigher.dev)
+- 💼 [LinkedIn](https://www.linkedin.com/in/almill36)
+- 📊 Portfolio projects below
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Current focus:** Profitability & Segmentation analytics at Scotiabank. Pursuing ACCA, data engineering, and systems design.
+
+*“Aim for the moon. If you miss, you may hit a star.”*
